@@ -99,6 +99,7 @@ coverage/
 .vscode/extensions.json
 
 # Windows
+/windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
@@ -109,3 +110,13 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.lnk
+
+# linux
+/linux
+
+# macos
+/macos
+
+# web
+/web
+
